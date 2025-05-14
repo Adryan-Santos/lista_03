@@ -67,15 +67,6 @@ Palavra 'kqezvc' encontrada.
 
 ---
 
-## 📝 Estrutura de Arquivos
-
-```
-├── App.java
-└── README.md
-```
-
----
-
 ## 📚 Referência
 
 Repositório oficial da disciplina:  
